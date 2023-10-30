@@ -1,0 +1,7 @@
+{
+  "name": "artechile-admin-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
